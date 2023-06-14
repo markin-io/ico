@@ -997,4 +997,4 @@ export const TOKEN_CONTRACT_ABI = [
     "type": "receive"
   }
 ];
-export const TOKEN_CONTRACT_ADDRESS = "0xe7aEE6cDe2fBA3631aeff302Ae623bA0BbecE060";
+export const TOKEN_CONTRACT_ADDRESS = "0x553F54299fF600f59C3377C45598BA44bEa46187";
